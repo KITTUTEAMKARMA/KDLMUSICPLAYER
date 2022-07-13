@@ -1,6 +1,5 @@
 pyrogram
 tgcrypto
-py-tgcalls==0.5.5
 python-dotenv
 youtube-search-python
 requests
@@ -20,3 +19,4 @@ yt-dlp
 httpx==0.13.3
 heroku3
 gitpython
+py-tgcalls==0.8.6
