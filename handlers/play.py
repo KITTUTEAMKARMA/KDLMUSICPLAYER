@@ -855,7 +855,7 @@ async def lol_cb(b, cb):
         loc = file_path
         appendable = [s_name, r_by, loc]
         qeue.append(appendable)
-       await callsmusic.pytgcalls.join_group_call
+        await callsmusic.pytgcalls.join_group_call
         await cb.message.delete()
         await b.send_photo(
             chat_id,
